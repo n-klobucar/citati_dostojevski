@@ -1,0 +1,1 @@
+C:\Users\kloby\AppData\Local\Programs\Python\Python37\pythonw.exe "C:\Users\kloby\Desktop\citati.py"
